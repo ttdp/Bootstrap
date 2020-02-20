@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #fff;
+    color: #555;
+    font-family: "Lato";
+    font-size: 20px;
+    text-rendering: optimizeLegibility;
+}
+
+.h1 {
+    color: #555;
+    font-family: "Roboto";
+}
